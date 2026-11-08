@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Курс по авторизации",
+    absolute: "Проект по авторизации",
     template: "%s | авторизация",
   },
   description: "Учебный проект по фуллстак авторизации",
